@@ -6,6 +6,7 @@
 
 - 🌱 I’m currently learning **C, CS50 AI**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sachintha-lakmin-2a243724b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachintha-lakmin-2a243724b" height="30" width="40" /></a>
