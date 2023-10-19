@@ -21,7 +21,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sachintha-lk&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sachintha-lk&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachintha-lk" alt="sachintha-lk" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachintha-lk&theme=dracula&margin-h=15&margin-w=15&no-frame=true" alt="sachintha-lk" /></a> </p>
 
 
 ### ✍️ Random Dev Quote
