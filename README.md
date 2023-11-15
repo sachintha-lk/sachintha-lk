@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Salon Bliss- Booking + CRM with Laravel](https://github.com/sachintha-lk/CRM-laravel)
 
-- 🌱 I’m currently learning **C, CS50 AI**
+- 🌱 I’m currently learning **C, [CS50 AI](https://cs50.harvard.edu/ai/2023/), [CS50x](https://cs50.harvard.edu/x/2023/), [CS50 Cybersecurity](https://cs50.harvard.edu/cybersecurity/2023), [Machine Learning with Python - FreeCodeCamp](https://www.freecodecamp.org/learn/machine-learning-with-python), [Containerize Applications with Docker - LinkedIn Learning](https://www.linkedin.com/learning/paths/containerize-applications-with-docker)**
 
 
 <h3 align="left">Connect with me:</h3>
