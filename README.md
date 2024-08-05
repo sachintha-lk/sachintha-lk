@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">Hi 👋, I'm Sachintha Lakmin</h1>
 <h3 align="center">A software engineering student from Sri Lanka</h3>
 
@@ -51,11 +52,16 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=sachintha-lk&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sachintha-lk&theme=midnight-purple&hide_border=true)<br/>
 -->
+<!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sachintha-lk&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+-->
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=sachintha-lk&theme=dracula&margin-h=15&margin-w=15&no-frame=true" alt="sachintha-lk" /></a> </p>
 -->
-
+<!--
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+-->
+
+
